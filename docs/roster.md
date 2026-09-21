@@ -9,4 +9,4 @@ Solo se pide usuario de GitHub, no nombre completo, para minimizar datos
 personales en un repositorio público.
 
 | Usuario de GitHub | Link a mi fork |
-|---|---|
+| zidanemena | https://github.com/zidanemena/temas-selectos-fisica-computacional-1 |
